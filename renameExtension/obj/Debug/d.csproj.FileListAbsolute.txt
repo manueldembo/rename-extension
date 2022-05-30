@@ -1,0 +1,10 @@
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\bin\Debug\renameExtension.exe.config
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\bin\Debug\renameExtension.exe
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\bin\Debug\renameExtension.pdb
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\d.csprojAssemblyReference.cache
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\renameExtension.frmMain.resources
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\renameExtension.Properties.Resources.resources
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\d.csproj.GenerateResource.cache
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\d.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\renameExtension.exe
+C:\Users\DESKTOP-DEMBO\source\repos\renameExtension\renameExtension\obj\Debug\renameExtension.pdb
